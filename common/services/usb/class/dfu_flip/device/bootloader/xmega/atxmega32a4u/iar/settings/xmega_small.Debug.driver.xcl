@@ -1,0 +1,21 @@
+"--cpu=xm32a4u" 
+
+"--enhanced_core" 
+
+"-p" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\avr\Config\ioxm32a4u.ddf" 
+
+"--eeprom_size" 
+
+"1024" 
+
+"--jtagice_clock=100000" 
+
+"--drv_communication=USB" 
+
+"--drv_use_PDI" 
+
+
+
+
